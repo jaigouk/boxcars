@@ -149,6 +149,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     sqlite3 (1.6.2)
       mini_portile2 (~> 2.8.0)
+    sqlite3 (1.6.2-arm64-darwin)
     sqlite3 (1.6.2-x86_64-darwin)
     sqlite3 (1.6.2-x86_64-linux)
     timers (4.3.5)
@@ -163,6 +164,7 @@ GEM
       hashdiff (>= 0.4.0, < 2.0.0)
 
 PLATFORMS
+  arm64-darwin-22
   universal-java-11
   x86_64-darwin-21
   x86_64-darwin-22
