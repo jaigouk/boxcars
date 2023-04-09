@@ -30,3 +30,5 @@ gem "faraday-retry", "~> 2.0"
 gem "activesupport", "~> 7.0"
 
 gem "hnswlib", "~> 0.8.1"
+
+gem 'pgvector', '~> 0.1.1'
